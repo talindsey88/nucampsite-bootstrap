@@ -1,0 +1,66 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Copperplate", fantasy;
+}
+
+h2 {
+    color: black;
+}
+header h2 {
+    color: black;
+}
+
+.site-footer {
+    background-image: linear-gradient(green,blue,orange);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, green, blue,orange);
+    color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+
+}
+
+.navbar {
+    background-color: #05022b;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.carousel {
+    border: solid green;
+    border-radius: 5%;
+}
+
+.facts-custom {
+    border: solid green;
+    margin-top: 30px;
+
+    color: black;
+    background-color: blue;
+
+}
+
+.card-custom {
+    border-radius: 10%;
+    background-color:rgb(223, 215, 215);
+}
